@@ -1,0 +1,24 @@
+body {
+	font-family: 'Piedra', cursive;
+}
+h1 {
+	text-align: center;
+	padding: 2rem 0;
+	font-size: 3rem;
+}
+h2 {
+	text-align: center;
+	font-size: 2rem;
+	font-family: serif;;
+}
+.heroes {
+	display: flex;
+	justify-content: space-around;
+}
+h3 {
+	font-size: 2rem;
+}
+p,ul {
+	font-family: serif;
+	font-size: 1.6rem;
+}
